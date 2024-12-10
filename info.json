@@ -1,0 +1,18 @@
+{
+    "title": "Half Life Sound Pack(sfx)",
+    "name": "Half-Life-Sound-Pack",
+    "author": "asvdev(in game - Dial-up)",
+    "factorio_version": "2.0",
+    "version": "0.0.0",
+    "dependencies": ["base >= 2.0.0", "Half-Life-Sound-Pack-speacker >= 2.0.1"],
+    "description": "replaces game sounds in hl sfx style",
+    "homepage": "https://github.com/asvdvl/Half-Life-Sound-Pack",
+    "package":{
+        "ignore":[
+            "*.py",
+            "__pycache__/**",
+            "*.kra*",
+            "add_item_to_list.lua"
+        ]
+    }
+}
